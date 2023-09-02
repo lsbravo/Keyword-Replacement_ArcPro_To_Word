@@ -1,6 +1,8 @@
 # Keyword Replacement (ArcPro To Word)
 
-This script is for situations where you need to run multiple intersect queries on a single point to populate a report in Word. For example, if you regularly find yourself needing to fill out values like zip codes, counties, or districts on a specific location. The tool allows you to add as many layers for intersect queries as you need but will only return one result per layer, which is why it's best for situations without overlapping polygons within the same layer.
+This script is for situations where you need to run multiple intersect queries on a single point to populate a report in Word. For example, if you regularly find yourself needing to fill out values like zip codes, counties, or districts on a specific location. The tool allows you to add as many layers for intersect queries as you need but will only return one result per feature class, which is why it's best for situations without overlapping polygons within the same feature class.
+
+Tested in ArcGIS Pro 3.1.0.
 
 # What You Need to Get Started
 
