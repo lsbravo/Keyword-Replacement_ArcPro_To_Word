@@ -47,3 +47,4 @@ Last, you'll go to the Execution tab, paste the Python script that's in this rep
 
 # Other Notes
 
+Made with assistance from Chat GPT. Planned update to include functionality to generate multiple reports from a set of points, rather than just one.
