@@ -14,7 +14,8 @@ Tested in ArcGIS Pro 3.1.0.
 
 All parameters are required. Make sure the Document Filepath includes the docx extension. The LayersToCheck portion can accept several layers. These must be accompanied by the name of the attribute that will be populated in Word and the keyword that will be replaced.
 
-![Set Up the Parameters](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/675b6a65-94c7-4016-bebe-89b582d4924a)
+![Set Up the Parameters](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/5de0dfb8-1ff0-40ff-9a68-85eb6c9d0961)
+
 
 When the tool is run, you'll see a new Word document in the same location as your original document. It will have "UPDATE" appended to the name. Open it, and you should see the keywords now mapped to the results of the intersection queries.
 
