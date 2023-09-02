@@ -4,7 +4,7 @@ This script is for situations where you need to run multiple intersect queries o
 
 # What You Need to Get Started
 
-1. A Word document populated with keywords to be replaced by your intersect results. Keywords need to be unique and cannot contain spaces or semicolons. A recommended format is <b><<county>></b> for a county name lookup.
+1. A Word document populated with keywords to be replaced by your intersect results. Keywords need to be unique and cannot contain spaces or semicolons. One way to guarantee no accidental replacements are made is to surround your unique keyword with <> or XXX's. See screenshot below for an example.
 2. A shapefile with your single point location.
 3. Shapefiles on the polygons to be intersected (states, regions, counties). You will also need to know how the attribute table is formatted to map the appropriate value to the keyword in Word.
 
