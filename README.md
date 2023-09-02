@@ -19,7 +19,7 @@ All parameters are required. Make sure the Document Filepath includes the docx e
 
 When the tool is run, you'll see a new Word document in the same location as your original document. It will have "UPDATE" appended to the name. Open it, and you should see the keywords now mapped to the results of the intersection queries.
 
-![Result](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/63dfaf35-81f2-483a-bcd4-74ca1c1e4cb5)
+![Result](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/5e33ae1f-01b9-42a5-86aa-3681f1802693)
 
 # Before Getting Started
 
@@ -29,24 +29,23 @@ Because the script interacts with Word Docs, you'll need the docx module. If you
 
 In the Catalog panel, right click Toolboxes, add a new one, and rename it.
 
-![Add_Toolbox](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/df9e78ea-62d0-4606-858b-ecef8e5e2d43)
+![Add_Toolbox](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/dfc5580c-ff34-4ab8-b437-9cac8d636cd9)
 
 Then right click the new tookbox, under New, click Script.
 
-![Add_Script](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/b7c96683-452e-47b8-9b14-34befca789d6)
+![Add_Script](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/3d7a7520-d417-400f-b0eb-d1cce1201749)
 
 It'll prompt you for a name and label.
 
-![General](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/890c4dbc-f845-4650-8394-4b2d11291c90)
+![General](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/d776d909-aeaa-40e4-bad1-2f0aac989c37)
 
 Once you're done with that, move to the parameters tab and set these three parameters up exactly as displayed in the screenshot.
 
-![Parameters](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/55cf35db-b314-40d1-8b42-706af98170e9)
+![Parameters](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/30fac1e6-dceb-410f-a164-2d8419e3a3dd)
 
 Last, you'll go to the Execution tab, paste the Python script that's in this repository, and then hit OK to finish.
 
-![Execution](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/9f76fa87-6a38-487c-b444-cf06b920565e)
-
+![Execution](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/d36c8718-4396-42de-9cf9-131da6691224)
 
 # Other Notes
 
