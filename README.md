@@ -18,6 +18,10 @@ When the tool is run, you'll see a new Word document in the same location as you
 
 ![Result](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/63dfaf35-81f2-483a-bcd4-74ca1c1e4cb5)
 
+# Before Getting Started
+
+Because the script interacts with Word Docs, you'll need the docx module. If you haven't already, you can open a Jupyter Notbook and import the module before getting started.
+
 # How To Add It To A Custom Toolbox
 
 In the Catalog panel, right click Toolboxes, add a new one, and rename it.
@@ -39,3 +43,7 @@ Once you're done with that, move to the parameters tab and set these three param
 Last, you'll go to the Execution tab, paste the Python script that's in this repository, and then hit OK to finish.
 
 ![Execution](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/9f76fa87-6a38-487c-b444-cf06b920565e)
+
+
+# Other Notes
+
