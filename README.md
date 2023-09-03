@@ -43,6 +43,10 @@ Once you're done with that, move to the parameters tab and set these three param
 
 ![Parameters](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/30fac1e6-dceb-410f-a164-2d8419e3a3dd)
 
+The LayersToCheck Value Table will prompt for column names and types. Set those to these values.
+
+![Parameter_Data_Type](https://github.com/lsbravo/Keyword_Replacement_ArcPro_to_Excel/assets/121823541/fb6ddacb-43bd-422a-b451-c29981805357)
+
 Last, you'll go to the Execution tab, paste the Python script that's in this repository, and then hit OK to finish.
 
 ![Execution](https://github.com/lsbravo/Keyword-Replacement_ArcPro_To_Word/assets/121823541/d36c8718-4396-42de-9cf9-131da6691224)
